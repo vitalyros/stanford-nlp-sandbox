@@ -1,0 +1,14 @@
+.idea/
+.idea_modules/
+*.ipr
+*.iml
+*.iws
+.virtualenv/
+tmp/
+build/
+__pycache__/
+dist/
+target/
+.attach*
+.~lock*
+.jar
